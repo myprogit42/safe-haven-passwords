@@ -1,6 +1,6 @@
 
 import { useState } from "react";
-import { Eye, EyeOff, Settings, Trash } from "lucide-react";
+import { Eye, EyeOff, Settings, Trash, Shield } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { useTheme } from "@/components/theme/ThemeProvider";
 import { PasswordEntry } from "@/lib/encryption";
